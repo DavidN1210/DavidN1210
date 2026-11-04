@@ -41,16 +41,27 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 ## Sobre mí
 
-Soy un Desarrollador de Software Junior apasionado por crear soluciones eficientes, funcionales y orientadas al usuario.
+¡Hola! Soy David, tengo 19 años y actualmente estoy cursando 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-- 💻 Desarrollador de Software Junior.
-- 🌐 Conocimientos en desarrollo web, multiplataforma, WordPress y optimización SEO.
-- 🚀 Persona responsable, trabajadora y con capacidad de adaptación.
-- 🎯 Motivado por seguir aprendiendo, mejorar mis habilidades y aportar valor al equipo.
+Me apasiona el mundo de la programación y el desarrollo de software. Disfruto aprendiendo, afrontando nuevos retos y buscando soluciones a diferentes problemas mediante la tecnología.
+
+🎓 Actualmente cursando 2.º de DAM.
+
+💡 Apasionado por la programación y la innovación tecnológica.
+
+🧠 Me gusta aprender cosas nuevas y mejorar continuamente.
+
+🔍 Disfruto resolviendo problemas y buscando soluciones eficientes.
+
+🤝 Me considero una persona responsable, trabajadora y con capacidad de adaptación.
+
+🚀 Busco oportunidades para participar en proyectos reales, poner en práctica mis conocimientos y seguir creciendo como desarrollador.
+
+🎯 Mi objetivo es mejorar mis habilidades profesionales y aportar valor a los equipos y proyectos en los que participe.
 
 ## Tecnologías
 
@@ -98,7 +109,7 @@ Diseño y desarrollo de un sitio web corporativo interactivo para un restaurante
 <a href="https://davidn1210.github.io/UT4_Practica1_ElMeson/">
 Ver Proyecto →
 </a>
-</p>
+</p><br>
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +126,7 @@ Se trata de una aplicación web que sirve para hacerle la vida más fácil a los
 <a href="https://github.com/DavidN1210/Arquidata_ProyectoFinal">
 Ver Repositorio →
 </a>
-</p>
+</p><br>
 
 </td>
 </tr>
