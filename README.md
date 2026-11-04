@@ -63,6 +63,30 @@ Me apasiona el mundo de la programación y el desarrollo de software. Disfruto a
 
 🎯 Mi objetivo es mejorar mis habilidades profesionales y aportar valor a los equipos y proyectos en los que participe.
 
+
+<!-- CONTRIBUTION SNAKE -->
+<br>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br>
+
 ## Tecnologías
 
 <h2 align="center">TECNOLOGÍAS Y HERRAMIENTAS</h2>
@@ -90,6 +114,8 @@ Me apasiona el mundo de la programación y el desarrollo de software. Disfruto a
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,eclipse,git,github,vscode"/>
 </p>
+
+<br>
 
 ## Proyectos Destacados
 
@@ -131,27 +157,4 @@ Ver Repositorio →
 </td>
 </tr>
 </table>
-
-<!-- CONTRIBUTION SNAKE -->
-
-<h2 align="center">CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/DavidN1210/DavidN1210/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
 
