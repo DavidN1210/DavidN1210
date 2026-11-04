@@ -38,7 +38,7 @@
 
 ---
 
-## ABOUT ME
+## Sobre mí
 
 Soy un Desarrollador de Software Junior apasionado por crear soluciones eficientes, funcionales y orientadas al usuario.
 
@@ -47,7 +47,7 @@ Soy un Desarrollador de Software Junior apasionado por crear soluciones eficient
 - 🚀 Persona responsable, trabajadora y con capacidad de adaptación.
 - 🎯 Motivado por seguir aprendiendo, mejorar mis habilidades y aportar valor al equipo.
 
-## TECHNOLOGIES
+## Tecnologías
 
 <h2 align="center">TECNOLOGÍAS Y HERRAMIENTAS</h2>
 
@@ -70,14 +70,12 @@ Soy un Desarrollador de Software Junior apasionado por crear soluciones eficient
 </p>
 
 <p align="center">
-  <strong>Mobile & Development Tools</strong>
+  <strong>Móviles & Herramientas de desarrollo</strong>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,eclipse,git,github,vscode"/>
 </p>
 
-## SELECTED PROJECTS
-
-<h2 align="center">Proyectos Destacados</h2>
+## Projectos Destacados
 
 <table width="100%">
 <tr>
@@ -88,33 +86,29 @@ Soy un Desarrollador de Software Junior apasionado por crear soluciones eficient
 <p>2025</p>
 
 <p>
-Design and development of an interactive corporate website
-for a local restaurant. Featuring a modern, clean and
-responsive interface optimized for mobile navigation.
+Diseño y desarrollo de un sitio web corporativo interactivo para un restaurante de mi pueblo. Implementación de una interfaz moderna, limpia y optimizada para la navegación móvil.
 </p>
 
 <p>
 <a href="https://davidn1210.github.io/UT4_Practica1_ElMeson/">
-View Project →
+Ver Proyecto →
 </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏗️ Arquidata - DAW Final Project</h3>
+<h3>🏗️ Arquidata - DAW Projecto Final</h3>
 
 <p>2026</p>
 
 <p>
-A web application designed to simplify architects' daily
-work, improving client communication, project management
-and architectural plan transfers.
+Se trata de una aplicación web que sirve para hacerle la vida más fácil a los arquitectos, facilitándoles la convesación con el cliente, la gestión de su trabajo y la transferencia de planos.
 </p>
 
 <p>
 <a href="https://github.com/DavidN1210/Arquidata_ProyectoFinal">
-View Repository →
+Ver Repositorio →
 </a>
 </p>
 
@@ -122,14 +116,3 @@ View Repository →
 </tr>
 </table>
 
-## GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidN1210&show_icons=true&hide_border=true&bg_color=050819&title_color=83BFFF&icon_color=9C83FF&text_color=FFFFFF"/>
-</p>
-
----
-
-<p align="center">
-  <sub>Designed with simplicity. Built with purpose.</sub>
-</p>
