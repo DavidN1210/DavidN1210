@@ -1,8 +1,15 @@
-<!-- HERO SECTION -->
+
+<!-- STAR RAIN ANIMATION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050819,100:080D22&height=35&section=header" width="100%"/>
+  <img
+    src="./assets/star-rain-banner.gif"
+    width="100%"
+    alt="Animated star rain"
+  />
 </p>
+
+<!-- HERO SECTION -->
 
 <h1 align="center">
   David Nieto Heras
@@ -11,6 +18,8 @@
 <h3 align="center">
   Software Developer
 </h3>
+
+<!-- TYPING EFFECT -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo+de+software;Me+gusta+crear+aplicaciones+modernas+y+aprender+nuevas+tecnolog%C3%ADas;Siempre+buscando+nuevos+retos+y+oportunidades+para+crecer"/>
@@ -24,19 +33,13 @@
   <a href="mailto:dnietoheras@gmail.com">
     <img src="https://img.shields.io/badge/✉_Contact_me-3155E7?style=for-the-badge&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/DavidN1210">
     <img src="https://img.shields.io/badge/GitHub-111522?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/david-nieto-a53109275/">
-  <img src="https://img.shields.io/badge/LinkedIn-111522?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111522?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<br/><br/>
-
----
 
 ## Sobre mí
 
