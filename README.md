@@ -75,7 +75,7 @@ Soy un Desarrollador de Software Junior apasionado por crear soluciones eficient
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,eclipse,git,github,vscode"/>
 </p>
 
-## Projectos Destacados
+## Proyectos Destacados
 
 <table width="100%">
 <tr>
