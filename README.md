@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**DavidN1210/DavidN1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- HERO SECTION -->
 
 <p align="center">
@@ -22,10 +5,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">
-  David
-  <br/>
-  <span>Nieto</span>
-  <span>Heras</span>
+  David Nieto Heras
 </h1>
 
 <h3 align="center">
@@ -33,15 +13,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=600&lines=Building+modern+digital+experiences;Turning+ideas+into+software;Always+learning%2C+always+building"/>
-</p>
-
-<p align="center">
-  Apasionado por la tecnología y el desarrollo de software.
-  <br/>
-  Me gusta crear aplicaciones modernas y aprender nuevas tecnologías.
-  <br/>
-  Siempre buscando nuevos retos y oportunidades para crecer.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo+de+software;Me+gusta+crear+aplicaciones+modernas+y+aprender+nuevas+tecnolog%C3%ADas;Siempre+buscando+nuevos+retos+y+oportunidades+para+crecer"/>
 </p>
 
 <br/>
@@ -57,6 +29,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-111522?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/david-nieto-a53109275/">
+  <img src="https://img.shields.io/badge/LinkedIn-111522?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <br/><br/>
