@@ -41,6 +41,8 @@
   </a>
 </p>
 
+<br><br>
+
 ## Sobre mí
 
 Soy un Desarrollador de Software Junior apasionado por crear soluciones eficientes, funcionales y orientadas al usuario.
