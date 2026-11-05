@@ -36,9 +36,6 @@
   <a href="https://github.com/DavidN1210">
     <img src="https://img.shields.io/badge/GitHub-111522?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/david-nieto-a53109275/">
-    <img src="https://img.shields.io/badge/LinkedIn-111522?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 <br>
